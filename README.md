@@ -20,3 +20,15 @@ HYDERABAD is best **place** for **living** . It's also called as land of **birya
 - neckalce road is famous for buddha
 
 [Bio and Image](AboutMe.md)
+
+*****
+## Beverage Section
+Famous drinks available in Arby's.
+Beverage, location & Price
+
+| Drinks    | Location | Price |
+|------------|----------|-------|
+| Pepsi     | Arby's| $2.00 |
+| Diet coke | Arby's| $1.50 |
+| Sprite    | Arby's| $1.80 |
+| Powerade  | Arby's| $2.20 |
