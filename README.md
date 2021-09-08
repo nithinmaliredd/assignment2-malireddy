@@ -32,3 +32,10 @@ Beverage, location & Price
 | Diet coke | Arby's| $1.50 |
 | Sprite    | Arby's| $1.80 |
 | Powerade  | Arby's| $2.20 |
+
+---
+## Pithy Quotes
+*Helen Keller* said:
+
+> The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.
+> Alone we can do so little; together we can do so much.
