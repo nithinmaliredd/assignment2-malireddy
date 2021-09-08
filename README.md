@@ -13,4 +13,9 @@ HYDERABAD is best **place** for **living** . It's also called as land of **birya
 3. After reaching the destiantion take the cab and see historical places in hyderabad
     1. charminar
     2. golconda fort
-    3. lumbini park  
+    3. lumbini park
+    4. Had my famous biryani
+       1. chicken biryani
+       2. mutton biryani
+- nagarjuna sagar is very close to hyderabad
+- neckalce road is famous for buddha
